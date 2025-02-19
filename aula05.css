@@ -1,0 +1,14 @@
+header {
+    background-color: aqua;/*cor de fundo do cabeçaljo */
+    text-align: center; /*centralizar cabeçalho*/
+    color: black; /*cor do texto*/
+    padding: 20px; /*tamanho do preenchimento do cabeçalho */
+
+}
+
+footer {
+    background-color: rgb(0, 6, 12);
+    color: rgb(234, 243, 245);
+    text-align: center;
+    padding: 20px;
+}
