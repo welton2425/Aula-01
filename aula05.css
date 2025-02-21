@@ -1,14 +1,54 @@
 header {
-    background-color: aqua;/*cor de fundo do cabeçaljo */
-    text-align: center; /*centralizar cabeçalho*/
-    color: black; /*cor do texto*/
-    padding: 20px; /*tamanho do preenchimento do cabeçalho */
+    background-color: aqua;
+    /*cor de fundo do cabeçaljo */
+    text-align: center;
+    /*centralizar cabeçalho*/
+
+    padding: 20px;
+    /*tamanho do preenchimento do cabeçalho */
 
 }
 
+head h1 {
+    color: black;
+    /* cor da letra*/
+    font-size: 25px;
+    /*tamanho do texto*/
+}
+
+
+.joao01 {
+padding: 150px;
+background-color: rgb(243, 146, 146);
+}
+
+.joao02 {
+    padding: 150px;
+    background-color: aquamarine;
+}
+
+.joao03 {
+    padding: 150px;
+    background-color: blueviolet;
+}
+
+
 footer {
     background-color: rgb(0, 6, 12);
-    color: rgb(234, 243, 245);
+    /*COR DE FUNDO DO RODAPÉ*/
     text-align: center;
-    padding: 20px;
+    /*cor do texto*/
+    padding: 25px;
+    /*tamanho da caixa*/
+ 
+    color: aliceblue;
+    /*cor da letra*/
+    font-size: 30px;
+    /*tamanho do texto*/
+}
+footer .joao04 {
+    color: aqua;
+}
+footer .joao05 {
+    color: blueviolet;
 }
